@@ -15,7 +15,7 @@
 
 #contacts-table thead {
   color: #FFF;
-  background-color: #007BFF;
+  background-color: #ff00dd;
 }
 
 .col-id {
@@ -37,7 +37,7 @@
 }
 
 .edit-icon {
-  color: #007BFF;
+  color: #0004ff;
 }
 
 .delete-form {
@@ -86,8 +86,8 @@
 }
 
 #back-link {
-  border: 1px solid #007BFF;
-  color: #007BFF;
+  border: 1px solid #2b00ff;
+  color: #001eff;
   border-radius: 4px;
   padding: 5px;
 }
